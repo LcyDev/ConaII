@@ -1,5 +1,6 @@
 ### Introduction 👋
   Hi, i'm Lucy here is some more info about me and my current projects.
+  But i don't think they really matter right now, as all of my repositories on here are private.
 
 ### 💻 List of some of my proyects: ...
   - **[Python]**: **woodRewritten / Wood**                                       
