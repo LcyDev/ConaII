@@ -1,16 +1,33 @@
-### Hi there 👋
+### Introduction 👋
+  Hi, i'm Lucy here is some more info about me and my current projects.
+
+### 💻 List of some of my proyects: ...
+  - **[Python]**: **woodRewritten / Wood**                                       
+  - **[Java]**: ServerAdditions *(Spigot)*
+  - **[Python]**: **ZStart**
+
+  - **[C#]**: DuckCHARM
+  - **[Java]**: mSkin *(Spigot & Forge & Fabric)*
+  - **[Java]**: StaffDuty *(Spigot)*
+  - **[Java]**: PlayerActions *(Spigot)*
+  - **[JDA]**: ServerAdditions BOT *(Discord)*
+  
+
+### 📝 Languages that i use: ...
+  - **Python**
+  - **Rust**
+  - **Java**, **Kotlin**
+  - **GDScript**
+  - **C++**, **C#**
+
 
 <!--
-**ConaII/ConaII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📑 Other languages ...
+  - *TypeScript*, *JavaScript*
+  - Scripting: *PowerShell*, *Batch*, *Bash/Shell*, *AutoHotKey*
+  - LUA *(fuck you lua)*
 -->
+
+### 💌 About me: ...
+  - My prefered linux distros are Garuda & EndeavorOS.
+  - 📫 Contact me via email: **conahiromi@gmail.com**
