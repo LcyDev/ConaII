@@ -31,3 +31,20 @@
 ### 💌 About me: ...
   - My prefered linux distros are Garuda & EndeavorOS.
   - 📫 Contact me via email: **conahiromi@gmail.com**
+<!--
+---
+![](https://komarev.com/ghpvc/?username=ConaII&color=blueviolet&style-plastic)
+__ __
+
+
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ConaII&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_title=true)
+	
+![](https://github-readme-stats.vercel.app/api?username=ConaII&theme=radical&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ConaII&exclude_repo=Aang&layout=compacthide_border=true&theme=radical&hide_border=true)
+
+</div>
+-->
+
