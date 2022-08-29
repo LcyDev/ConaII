@@ -1,7 +1,9 @@
-### Introduction 👋
-  Hi, i'm Lucy here is some more info about me and my things.
+### About
+  Hii, i'm Lucy ^^, i am currently learning and programming at my own, but also studying computer science.
 
-### 💻 List of some of my proyects: ...
+  I just love computers and science so yeah, i ended up programming stuff.
+
+### 💻 List of some of my proyects that aren't public (yet?): ...
   - **[Python]**: **woodRewritten / Wood**                                       
   - **[Java]**: ServerAdditions *(Spigot)*
   - **[Python]**: **ZStart**
