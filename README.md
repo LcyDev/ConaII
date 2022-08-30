@@ -29,8 +29,9 @@
 -->
 
 ### 💌 About me: ...
-  - My prefered linux distros are Garuda & EndeavorOS.
+  - Linux distros: Garuda & EndeavorOS.
   - 📫 Contact me via email: **conahiromi@gmail.com**
+  - My public discord: **ConaII#1154**
 <!--
 ---
 ![](https://komarev.com/ghpvc/?username=ConaII&color=blueviolet&style-plastic)
